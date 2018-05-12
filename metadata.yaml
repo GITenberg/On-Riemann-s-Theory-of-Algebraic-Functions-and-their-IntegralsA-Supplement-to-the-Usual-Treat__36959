@@ -22,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9227
     wikipedia: http://de.wikipedia.org/wiki/Felix_Klein
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36959#On-Riemann-s-Theory-of-Algebraic-Functions-and-their-IntegralsA-Supplement-to-the-Usual-Treat_
 gutenberg_bookshelf: Mathematics
 gutenberg_issued: '2011-08-03'
 gutenberg_type: Text
